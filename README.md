@@ -8,7 +8,7 @@ Propped é uma empresa fictícia para vendas de roupas e acessórios. A ideia da
 Foi desenvolvido um aplicativo em Flutter para os usuários e uma API em NodeJS. O banco de dados usados foi o SQLServer. Algumas funcionalidades não estão desenvolvidas por se tratar de um protótipo
 
 ## Uso
-Deve-se, primeiramente, criar o banco de dados seguindo o arquivo sintax.sql. Após isso, no arquivo db.config.example.js, colocar os dados de sua conexão com o servidor do banco. Então, por meio de uma IDE que suporte Flutter: Android Studio, Visual Studio Code, etc., execute o aplicativo em seu disposituvo ou em um emulador. 
+Deve-se, primeiramente, criar o banco de dados seguindo o arquivo sintax.sql. Após isso, no arquivo db.config.example.js, colocar os dados de sua conexão com o servidor do banco e, então, executar o aplicativo em seu dispositivo ou em um emulador. 
 
 ## Autores
 Copyright &copy; Eduardo Migueis e Rodrigo Smith 2020.
